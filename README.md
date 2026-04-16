@@ -38,8 +38,8 @@ Follow these steps to set up and run the script:
 First, download or clone the repository:
 
 ```bash
-git clone https://github.com/hazre/SpotifyLikesToLastfm.git
-cd SpotifyLikesToLastfm
+git clone https://github.com/sebsop/spotify-likes-to-lastfm.git
+cd spotify-likes-to-lastfm
 ```
 
 ### 2. Install Required Python Packages
